@@ -1,0 +1,11 @@
+.heroSection {
+  @apply 
+  ml-[10%] bg-white w-[33%] min-h-[90vh]
+  flex justify-center items-center flex-col
+}
+
+.heroInput {
+  @apply
+  border
+  border-red-600
+}

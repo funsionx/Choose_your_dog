@@ -1,0 +1,17 @@
+.card {
+  @apply
+  flex
+  flex-col
+  m-10
+  border
+  max-w-fit
+  p-2
+  justify-center
+  items-center
+}
+
+.footer {
+  @apply
+  flex
+}
+

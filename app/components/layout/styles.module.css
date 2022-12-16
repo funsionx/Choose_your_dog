@@ -1,0 +1,24 @@
+.layout {
+  @apply
+  flex
+  justify-between
+  items-center
+  text-red-600
+  border
+}
+
+.right {
+  @apply
+  flex
+  gap-10
+  mr-[2%]
+}
+
+.left {
+  @apply
+  rounded-full
+  w-12
+  h-12
+  bg-black
+  ml-[2%]
+}
